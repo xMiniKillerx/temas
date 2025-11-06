@@ -1,9 +1,7 @@
 {"name":"DarkenedBasicBad","description":"COMIDA CHINA 50 PEZOSS","authors":[{"name":"arepa"}
 ],
 "semanticColors":{
-     "CHANNELTEXTAREA_BACKGROUND": [
-      "#35222d"
-    ]
+"CHANNELTEXTAREA_BACKGROUND":["#35222d"]
 },
 "rawColors":{},
 "background": {

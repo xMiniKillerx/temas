@@ -141,6 +141,9 @@
         ],
         "STATUS_POSITIVE_BACKGROUND": [
             "#32CD32"
+        ],
+        "EMBED_BACKGROUND": [
+            "#000000ad"
         ]
     },
     "rawColors": {
